@@ -1,0 +1,4 @@
+api_url: "https://api.github.com"
+request_count: 50
+timeout: 3
+log_level: "INFO"
